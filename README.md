@@ -1,4 +1,4 @@
-![Logo do projeto](https://i.imgur.com/kniMQHu.png)
+![Logo do projeto]([https://i.imgur.com/kniMQHu.png](https://i.imgur.com/pRG988O.png)
 
 # Projeto Riot Client
 
