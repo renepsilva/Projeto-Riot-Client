@@ -15,4 +15,4 @@ Esse projeto teve como objetivo colocar em prática e aperfeiçoar meus conhecim
 
 ## 💭 Entre em contato
 * Para suporte, mande um email para renepaulinodasilvaqxd@gmail.com
-* Linkedin ([Acesse](https://www.linkedin.com/in/ren%C3%AA-paulino-da-silva-b1b5312a9/)https://www.linkedin.com/in/ren%C3%AA-paulino-da-silva-b1b5312a9/)
+* Linkedin [Acesse](https://www.linkedin.com/in/ren%C3%AA-paulino-da-silva-b1b5312a9/)
